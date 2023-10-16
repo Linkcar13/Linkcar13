@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Carlos Estrada
-- 👀 I’m interested in Programing, Sports, writing   
-- 🌱 I’m currently learning Sql Server 
+- 👋 Hi, I’m Carlos Estrada a Security Reasearcher.
+- 👀 I’m interested in Programing, Ethical Hacking, Sports, writing   
+- 🌱 I’m currently learning RUST 
 - 💞️ I’m looking to collaborate on projects
 
   
