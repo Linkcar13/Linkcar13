@@ -2,6 +2,7 @@
 - 👀 I’m interested in Programing, Ethical Hacking, Sports, writing   
 - 🌱 I’m currently learning RUST 
 - 💞️ I’m looking to collaborate on projects
+
 ###
 
 <div align="center">
@@ -65,13 +66,21 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=cekalels1399&theme=radical" alt="Layout with last medium posts"  />
+  <img height="300" src="https://media.tenor.com/yC2nL3_x_mgAAAAi/dota.gif"  />
 </div>
 
 ###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1&username=cekalels1399&theme=gruvbox" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://open.spotify.com/user/12159539257">
